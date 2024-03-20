@@ -7,7 +7,7 @@ import Signin from "./components/screens/Login";
 import Profile from "./components/screens/Profile"
 import Signup from "./components/screens/Singup"
 
-
+//import
 function App() {
   return (
     <BrowserRouter>
