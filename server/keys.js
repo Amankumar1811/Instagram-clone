@@ -1,4 +1,4 @@
 module.exports={
-    MONGOURI:"mongodb+srv://Aman:SxWCNIPQ4FpqcmTk@cluster0.rejmni7.mongodb.net/",
+    MONGOURI:"mongodb+srv://aman3gkumar:XdZDiOq4SfpTai3Q@cluster0.jo59p0c.mongodb.net/",
     JWT_SECRET:"qwertasdzxc123"
 }
